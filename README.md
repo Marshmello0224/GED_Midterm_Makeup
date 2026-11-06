@@ -1,29 +1,15 @@
 # INFR 3110 Make Up Assignment
 ---
-### Name :
-### Student Number :
----
-# Object Oriented Programming
----
-### Description
-<!-- Briefly describe the classes, their relationships, and how object-oriented
-programming principles are demonstrated in your implementation. -->
-# Singleton Pattern
----
-### Purpose
-<!-- Explain why the Singleton pattern is appropriate for this particular system.
--->
-### Implementation
-<!--Describe how the Singleton pattern is implemented in your project. -->
+### Name : Owen Marsh
+### Student Number : 100968356
 ---
 # Factory Pattern
 ---
 ### Purpose
-<!-- Explain why the Factory pattern is appropriate for this particular system. -->
+The factory pattern is implemented for the food creation of the project to recreate (in a sense) the food generation of the original game.
 ### Implementation
-<!-- Describe how the Factory pattern is implemented in your project. -->
+The food is assigned as a prefab to a food factory, using a base food abstract class. The food factory then allows the food to be spawned using the spacebar
 ---
 # References
 ---
-<!-- Identify sources used to create any gameplay logic or programming pattern
-implementations. -->
+https://gamedev.net/blogs/entry/2277680-factory-design-pattern-in-unity/
