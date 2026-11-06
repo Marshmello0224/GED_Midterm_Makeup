@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 1501574291347761377}
   - component: {fileID: 4379687155522380025}
   - component: {fileID: 5582630533156234954}
-  - component: {fileID: -7663693261523839019}
   m_Layer: 0
   m_Name: Yummy Snack
   m_TagString: Untagged
@@ -121,15 +120,3 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 1, y: 2}
   m_Direction: 0
---- !u!114 &-7663693261523839019
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4821139750622795412}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ee014e39bedb2c4ca8eb0a7afa9b4fd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
